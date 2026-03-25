@@ -13,6 +13,9 @@ A CLI-based trading bot for placing MARKET and LIMIT orders on Binance USDT-M Fu
 - Handles errors such as invalid inputs, API failures, and insufficient balance gracefully
 - Colored CLI output (if `colorama` installed)
 
+## Requirements
+- Python 3.8+
+
 ## Setup
 1. **Clone the repository**
 2. **Install dependencies**
